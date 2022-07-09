@@ -20,7 +20,8 @@
             app:layout_constraintStart_toEndOf="@+id/ivAvatar"
             app:layout_constraintTop_toTopOf="@+id/ivAvatar"
             app:layout_constraintVertical_bias="0.263"
-            tools:text="Ashly Ochwada" />
+            tools:text="Ashly Ochwada"
+            android:fontFamily="sans-serif-black"/>
 
         <ImageView
             android:id="@+id/ivAvatar"
@@ -43,7 +44,8 @@
             app:layout_constraintStart_toEndOf="@+id/tvName"
             app:layout_constraintTop_toTopOf="@+id/tvName"
             app:layout_constraintVertical_bias="1.0"
-            tools:text="#AshlyOchwada" />
+            tools:text="#AshlyOchwada" android:fontFamily="sans-serif-condensed"
+            />
 
         <TextView
             android:id="@+id/tvTweet"
@@ -52,6 +54,7 @@
             android:layout_marginTop="8dp"
             android:layout_marginEnd="4dp"
             tools:text="Do what you love and success will follow. Passion is the fuel behind a successful career"
+            android:fontFamily="sans-serif-condensed-light"
             android:textSize="20sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.333"

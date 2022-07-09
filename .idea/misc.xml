@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/font/italic.xml" value="0.1" />
+        <entry key="app/src/main/res/font/roboto.xml" value="0.18645833333333334" />
+        <entry key="app/src/main/res/font/sans_serif.xml" value="0.18645833333333334" />
         <entry key="app/src/main/res/layout/account_lists_item.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.21" />
         <entry key="app/src/main/res/layout/twitter_list_item.xml" value="0.2" />
